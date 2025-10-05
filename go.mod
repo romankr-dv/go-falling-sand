@@ -1,4 +1,4 @@
-module falling-sand
+module falling-snow
 
 go 1.25.1
 
